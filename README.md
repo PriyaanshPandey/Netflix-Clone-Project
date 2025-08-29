@@ -1,4 +1,4 @@
- 🎬 Netflix Frontend Clone  
+# 🎬 Netflix Frontend Clone  
 
 I challenged myself to build a **Netflix frontend clone** entirely from scratch –  
 ❌ No ChatGPT  
